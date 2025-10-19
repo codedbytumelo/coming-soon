@@ -123,7 +123,7 @@ export function Navbar() {
               asChild
               onClick={() => setIsMenuOpen(false)}
             >
-              <Link href="#waitlist">Join Waitlist</Link>
+              <Link href="/waitlist">Join Waitlist</Link>
             </Button>
             <div className="flex justify-center pt-2">
               <Button variant="ghost" size="icon" asChild>
