@@ -59,7 +59,7 @@ export function Navbar() {
             </DropdownMenuContent>
           </DropdownMenu>
           <Button asChild>
-            <Link href="#waitlist">Join Waitlist</Link>
+            <Link href="/waitlist">Join Waitlist</Link>
           </Button>
         </div>
 
